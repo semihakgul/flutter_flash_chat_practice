@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>173004879152-8lkio2f7em12ppi5l6e1fhsopgg8bt0n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.173004879152-8lkio2f7em12ppi5l6e1fhsopgg8bt0n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfMTPrD3Yd3mY7nQJ7qzex-5AXAMjCoWA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>173004879152</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.SemihReis.chap-chat</string>
+	<key>PROJECT_ID</key>
+	<string>chap-chat-4a710</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chap-chat-4a710.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:173004879152:ios:4a9890dd70eea4087b84f5</string>
+	<key>DATABASE_URL</key>
+	<string>https://chap-chat-4a710.firebaseio.com</string>
+</dict>
+</plist>

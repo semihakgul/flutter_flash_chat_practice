@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173004879152",
+    "firebase_url": "https://chap-chat-4a710.firebaseio.com",
+    "project_id": "chap-chat-4a710",
+    "storage_bucket": "chap-chat-4a710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173004879152:android:72dc86d817d3127a7b84f5",
+        "android_client_info": {
+          "package_name": "co.SemihReis.chap_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173004879152-6s99thfsa9bmumq8kou0dopfdqg7r5c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa-MwIBywHnpOOUHPiDqCJVNbmwD0ozIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173004879152-6s99thfsa9bmumq8kou0dopfdqg7r5c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
